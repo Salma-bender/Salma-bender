@@ -9,7 +9,6 @@ Je suis en 5ᵉ année du cycle ingénieur Sécurité IT à la FST de Marrakech 
 🎯 **Je recherche un stage PFE de 6 mois à partir de février 2027**, en cybersécurité (SOC, détection, GRC technique).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-bender)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salmabenderpro@gmail.com)
 
 ---
 
@@ -42,7 +41,7 @@ SIEM Wazuh, Threat Intelligence MISP et SOAR TheHive + Cortex + Shuffle déploy�
 **🧪 Détection d'attaques web par IA, WAF et XDR** *(en cours)*
 Lab offensif/défensif (Kali, ModSecurity/OWASP CRS, DVWA, Wazuh) : règles de détection Wazuh à trois niveaux et modèle Random Forest pour démontrer et détecter l'évasion des détections par signatures (SQLi, XSS, LFI/RFI, RCE).
 
-**🔐 Architecture d'entreprise sécurisée (OpenVPN, pfSense, Suricata)**
+**🔐 [Architecture d'entreprise sécurisée avec pfSense, OpenVPN et Suricata](https://github.com/Salma-bender/pfsense-openvpn-suricata-lab)**
 Réseau segmenté avec VPN client-to-site et PKI interne, durcissement Ubuntu (UFW, SSH) et IPS Suricata inline, validé par des simulations de scans, brute force et flood.
 
 ---
@@ -66,6 +65,6 @@ Réseau segmenté avec VPN client-to-site et PKI interne, durcissement Ubuntu (U
 
 ## 📬 Me contacter
 
-Un projet de SOC, de détection ou de durcissement ? Ou simplement envie d'échanger sur la sécurité ? Écrivez-moi par [email](mailto:salmabenderpro@gmail.com) ou sur [LinkedIn](https://linkedin.com/in/salma-bender).
+Un projet de SOC, de détection ou de durcissement ? Ou simplement envie d'échanger sur la sécurité ? Retrouvez-moi sur [LinkedIn](https://linkedin.com/in/salma-bender).
 
 > *« Simuler l'attaque pour mieux construire la défense. »*
